@@ -1,2 +1,1 @@
 This is a sample text, text is ok, file updating
-git commit -a
